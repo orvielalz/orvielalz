@@ -1,5 +1,6 @@
 # Hello! 👋🏼 I'm Orviel and I'm a 3rd year Informatics Major specializing in Human-Computer Interaction at UCI!  
 
+![This is an image](https://cutekawaiiresources.files.wordpress.com/2016/11/cinnamoroll-1-foot.gif)  
 ## Past, Present, & Future Learning ~  
 Past: Godot Engine, Figma, Marvel  
 Present: Python, HTML, CSS, JavaScript  
