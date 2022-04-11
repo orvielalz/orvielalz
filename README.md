@@ -1,12 +1,12 @@
-# Hello! 👋🏼 I'm Orviel and I'm a 3rd year Informatics Major specializing in Human-Computer Interaction at UCI!  
-
 ![This is an image](https://cutekawaiiresources.files.wordpress.com/2016/11/cinnamoroll-1-foot.gif)  
+# Hello! 👋🏼 I'm Orviel and I'm a 3rd year Informatics Major at UCI!  
 ## Past, Present, & Future Learning ~  
 Past: Godot Engine, Figma, Marvel  
 Present: Python, HTML, CSS, JavaScript  
 Future: Java, C++  
 ## Interests in Tech ~  
 - Front-end development
+- Human-Computer Interaction (HCI)
 - UI/UX design
 - Game development
 - Software Engineer *(end-game?)*
@@ -18,7 +18,8 @@ Future: Java, C++
 - Photographer (film + DSLR/SLRs)
 ## Links ~
 [LinkedIn](https://www.linkedin.com/in/orvielmalzate/)  
-[Godot Engine Game](https://zach1281.itch.io/abandoned-hotel)
+[Godot Engine Game](https://zach1281.itch.io/abandoned-hotel)  
+[Twitch](https://www.twitch.tv/cinnamorviel/)
 <!--
 **orvielalz/orvielalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
