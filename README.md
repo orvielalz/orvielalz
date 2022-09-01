@@ -1,7 +1,5 @@
 ![This is an image](https://cutekawaiiresources.files.wordpress.com/2016/11/cinnamoroll-1-foot.gif)  
-# Hello! 👋🏼 I'm Orviel and I'm a 3rd year Informatics Major at UCI!
-
-I love UCI!
+# Hello! 👋🏼 I'm Orviel and I'm a 4th year Informatics Major at UCI!
 
 ## Past, Present, & Future Learning ~![This is an image](https://64.media.tumblr.com/e0a25ce140b116261a16cdb9fd780ed2/0aff0be0eccacd6b-58/s250x400/cc146f7cc3feb3008879f42598ef81cf615cafe8.gifv)  
 Past: Godot Engine, Figma, Marvel  
